@@ -1,4 +1,4 @@
-# untitled
+# Flutter app
 
 A new Flutter project.
 
